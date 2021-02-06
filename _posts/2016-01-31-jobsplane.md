@@ -8,7 +8,7 @@ thumbnail: https://gyanl.com/assets/thumbs/jobsplane.png
 
 ### About Jobsplane
 
-Jobsplane is a job aggregator which helps people across India find the right jobs and internships for them. I worked with the Jobsplane team on an updated brand identity, a redesign of their website, and on the design for their new mobile app.
+Ok hi
 
 ### Identity
 
